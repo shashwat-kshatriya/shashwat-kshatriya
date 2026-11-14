@@ -79,6 +79,7 @@ I enjoy turning complex requirements into systems that are easier to trust, main
 
 - **LLM API Gateway** — A Go reverse proxy for multiple LLM providers, with per-client rate limiting, caching, circuit breaking, and monitoring.
 - **Assistive Smart Glove** — An ESP32-based sign language translation system with configurable gesture mappings and text-to-speech.
+- **PGLife – Full-Stack Accommodation Platform** — A responsive PG accommodation listing platform with personalized search ranking, secure user authentication, and real-time property search, improving user retention by 30%.
 - **Interactive Developer Portfolio** — A React and TypeScript portfolio with a browser-based SQL console, an AI chatbot, and Supabase-backed content management.
 
 **[Explore my work →](https://shashwatkshatriya.in/portfolio)** · **[Try Query Me →](https://shashwatkshatriya.in/query)**
